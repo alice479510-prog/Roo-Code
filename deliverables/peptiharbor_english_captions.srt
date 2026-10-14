@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,400
+Hello, I'm Retatrutide!
+
+2
+00:00:02,400 --> 00:00:05,950
+Meet BPC-157, GHK-Cu, and NAD+.
+
+3
+00:00:05,950 --> 00:00:12,240
+PeptiHarbor Labs offers specifications and analytical reports for selected products.
+
+4
+00:00:12,240 --> 00:00:15,000
+Laboratory research only — not for human use.
